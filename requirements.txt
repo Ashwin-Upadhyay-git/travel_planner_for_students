@@ -1,0 +1,5 @@
+streamlit==1.26.1
+pydeck==0.8.0
+google-generativeai==0.1.0
+numpy>=1.25.0
+pandas>=2.1.0
